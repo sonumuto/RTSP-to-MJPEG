@@ -1,6 +1,6 @@
 # RTSP-to-MJPEG
 
-A small Docker image I developed to convert RTSP camera streams into an MJPEG stream for OctoPrint, which requires MJPEG.
+A small Docker image I developed to convert RTSP camera streams into an MJPEG stream.
 
 ## Build
 
